@@ -6,7 +6,7 @@ This System aims to provide timely alerts to the public based on model's predict
 # Decision Tree Classifier   
 A decision tree classifier was fitted to the training set of a Mumbai's weather data and in-turn used for Heat-Wave predictions on daily basis.      
 
-![Decision_Tree_Classifier](https://github.com/AshishViswas/Heat_Wave_Alert_System/assets/130546401/434003f5-2f7f-4b7c-a88e-3ba30c8a41ba)
+![Decision_Tree_Classifier](https://github.com/AshishViswas/Heat_Wave_Alert_System/assets/130546401/fe68418f-29bb-4d14-8b1b-c1878c7f52e4)
 
 This ML Algorithm was chosen since it also performs the task of feature selection by only using important features thus reducing model's complexity making it easier to comprehend     
 
