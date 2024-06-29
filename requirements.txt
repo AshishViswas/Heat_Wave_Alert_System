@@ -1,0 +1,3 @@
+pandas==1.3.5
+matplotlib==3.7.1
+wwo-hist==0.0.7

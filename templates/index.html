@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Signup</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Signup</h1>
+        <form id="form" action="/Register" method="POST">
+            <label for="phone_number">Phone Number:</label>
+            <input type="text" id="phone_number" name="phone_number" required>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+</body>
+</html>
